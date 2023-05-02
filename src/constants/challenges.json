@@ -1,0 +1,20 @@
+{
+  "Data": {
+    "Ideal": "Price intelligence database ensures the gathering, analysis, and interpretation of market data to inform trading decisions. This database enables live monitoring of market trends, and competitor price decisions, analyzing historical data and staying up to date with the latest information on crop yields, supply and demand, weather patterns, food stock as well as other significant factors that can affect agribusiness and investment in agriculture.",
+    "Reality": "Sellers, Buyers, and investors rely on field marshals or any other unverified source to provide price information to make insightful decisions on grain sales or purchases. The data is not recorded in any database and is skewed to only locations where the field Marshall is domiciled or has connections. Investors are unable to predict the turn the market will take.",
+    "Consequence": "Inefficient supply chain disrupted by uninformed market players due to lack of vital and timely data.",
+    "Proposal": "Create a price data mining database that is accessible via the web or mobile. This will become the reference point for everything price in Nigeria."
+  },
+  "Extension": {
+    "Ideal": "Farmers can easily obtain the names of active ingredients and other information on chemical applications to be implemented at various stages to increase their yield.",
+    "Reality": "In reality, farmers are not knowledgeable about these terms and application guides, input sellers and students have only theoretical knowledge but little to no practical knowledge.",
+    "Consequence": "Consistent low yield harvested from most farm fields.",
+    "Proposal": "Develop a USSD application software and the supporting infrastructure to support immersive and personalized capacity building, and then real-time agronomy support that also takes into cognizance language barrier."
+  },
+  "Logistics": {
+    "Ideal": "A storage and logistics solution that creates efficiency in transaction for both farmers and processors. The farmers should on one hand be able to send their produce to the warehouses located closest to them while limiting postharvest losses and making good profit and the processors/offtakers should be able to track their deliveries from warehouse to location.",
+    "Reality": "A bottleneck occurs with farmers being unable to take their goods into warehouses, introducing middlemen who divert produce and shortchange farmers on prices. Processors are also unable to track/ trace their goods from dispatch to delivery, removing accountability and also increasing risk.",
+    "Consequence": "An inability to prevent postharvest losses, safeguard farmer livelihoods and provide traceability and transparency for processors.",
+    "Proposal": "Create a warehousing solution that enables farmers/offtakers/processors request for storage & logistics services real-time and  to have their produce dispatched with interactive experiences. This should include ease of inclusivity and communication, especially in rural areas where most farmers are situated."
+  }
+}

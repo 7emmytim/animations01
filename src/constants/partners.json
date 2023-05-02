@@ -1,0 +1,67 @@
+[
+  {
+    "src": "/partners/microsoft.svg",
+    "link": "https://www.microsoft.com",
+    "alt": "Microsoft"
+  },
+  {
+    "src": "/partners/giz.svg",
+    "link": "https://www.giz.de/en/html/index.html",
+    "alt": "Deutsche Gesellschaft für Internationale Zusammenarbeit GmbH"
+  },
+  {
+    "src": "/partners/agra.png",
+    "link": "https://agra.org",
+    "alt": "Alliance for a Green Revolution in Africa (AGRA)"
+  },
+  {
+    "src": "/partners/seedbuilders.svg",
+    "link": "https://seedbuildersng.com",
+    "alt": "seedbuilders"
+  },
+  {
+    "src": "/partners/techgen-africa.png",
+    "link": "https://www.techgenafrica.com",
+    "alt": "TechGen Africa"
+  },
+  {
+    "src": "/partners/safaricom.svg",
+    "link": "https://www.safaricom.co.ke",
+    "alt": "Safaricom PLC"
+  },
+  {
+    "src": "/partners/gain.svg",
+    "link": "https://www.gainhealth.org",
+    "alt": "Global Alliance for Improved Nutrition (GAIN)"
+  },
+  {
+    "src": "/partners/olam.svg",
+    "link": "https://www.olamgroup.com",
+    "alt": "Olam International"
+  },
+  {
+    "src": "/partners/etg.svg",
+    "link": "https://www.etgworld.com",
+    "alt": "Export Trading Group (ETG)"
+  },
+  {
+    "src": "/partners/releaf.svg",
+    "link": "https://www.releaf.africa",
+    "alt": "Releaf"
+  },
+  {
+    "src": "/partners/kadipa.png",
+    "link": "http://kadipa.kdsg.gov.ng",
+    "alt": "Kaduna State Investment Promotion Agency (KADIPA) "
+  },
+  {
+    "src": "/partners/mercy-corps.svg",
+    "link": "https://www.mercycorps.org/",
+    "alt": "Mercy Corps"
+  },
+  {
+    "src": "/partners/cnfa.svg",
+    "link": "https://www.cnfa.org",
+    "alt": "Cultivating New Frontiers in Agriculture (CNFA)"
+  }
+]

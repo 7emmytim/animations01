@@ -1,0 +1,26 @@
+@import url("fonts");
+
+@tailwind base;
+@tailwind variants;
+
+@layer base {
+  *, :root {
+    font-family: 'Switzer', system-ui, sans-serif;
+    /* https://github.com/tailwindlabs/tailwindcss/pull/9050 */
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    scroll-behavior: smooth !important;
+  }
+
+  .text-clamp {
+    @apply font-light text-2xl clump:text-[clamp(1.25rem,3vw,1.5rem)];
+  }
+
+  .h2-clamp {
+    @apply text-4xl clump:text-[clamp(1.85rem,3vw,2.25rem)];
+  }
+
+  .h3-clamp {
+    @apply text-3xl clump:text-[clamp(1.5rem,3vw,1.875rem)];
+  }
+}
+
